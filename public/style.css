@@ -1,0 +1,95 @@
+*{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+}
+
+body{
+height: 100%;
+background-color: palevioletred ;  
+  }
+
+h1{
+font-size: 3rem;
+text-align: center;
+color: purple;
+margin: 2rem;
+}
+.styling{
+font-weight: 750px;
+color: deepskyblue;
+}
+
+.idiv{
+display: flex;
+justify-content: center;
+align-items:center;
+text-align: center;  
+
+}
+  
+.idiv .iput{
+padding: 0.5rem 0.25rem; 
+height: 50px;
+outline: none;
+background-color: #fff;
+width: 350px;
+font-size: 1.2rem;
+margin: 0.2rem; 
+border-radius: 25px;
+
+}
+
+.sum{
+height: 60px;
+width: 50px;
+border-radius: 25px;
+outline: none;
+border: none;  
+background-color: deepskyblue;
+cursor: pointer;
+
+}
+.del{
+  height: 60px;
+  width: 50px;
+  border-radius: 25px;
+  outline: none;
+  border: none;  
+  background-color: deepskyblue;
+  margin-left: 2px;
+  cursor: pointer;
+  
+}
+
+
+.btn{
+height: 60px;
+  width: 50px;
+  border-radius: 25px;
+  outline: none;
+  border: none;  
+  background-color: deepskyblue;
+  margin-left: 60%;
+  cursor: pointer;
+  text-align: center;
+  margin-top: 35px;
+
+  
+}  
+
+.btn1{
+  height: 60px;
+    width: 50px;
+    border-radius: 25px;
+    outline: none;
+    border: none;  
+    background-color: deepskyblue;
+    margin-left: 5px;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+.txt{
+text-align: center;
+} 
