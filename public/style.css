@@ -6,7 +6,7 @@ box-sizing: border-box;
 
 body{
 height: 100%;
-background-color: palevioletred ;  
+background-color: lightgreen ;  
   }
 
 h1{
@@ -25,7 +25,8 @@ display: flex;
 justify-content: center;
 align-items:center;
 text-align: center;  
-
+margin-left: auto;
+margin-right: auto;
 }
   
 .idiv .iput{
@@ -33,9 +34,9 @@ padding: 0.5rem 0.25rem;
 height: 50px;
 outline: none;
 background-color: #fff;
-width: 350px;
+width: 320px;
 font-size: 1.2rem;
-margin: 0.2rem; 
+margin-top: 0.2rem; 
 border-radius: 25px;
 
 }
